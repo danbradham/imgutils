@@ -2,7 +2,6 @@ import os
 import itertools
 import re
 
-I want to use this, but Maya raises a window when trying to import PIL
 try:
     from PIL import Image
     use_pil = True
